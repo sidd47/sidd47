@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Video Game Project.
+- 🌱 I’m currently learning Containers.
+
+
 <!--
 **sidd47/sidd47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
