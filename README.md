@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Tech Stack
+### **Tech Stack** ⚡
 - Git, GitHub, GitHub Actions, GitLab 
 - Linux 
 - AWS 
