@@ -20,4 +20,12 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Tech Stack
-Git GitHub GitLab Linux AWS DO Docker Synk Kubernetes Rancher Jenkins Ansible Terraform Prom Grafana Python C Go MD Flask Django MySQL VS GitHub Actions Post Jira Heroku RaspberryPi Arduino ZigBee
+- Git, GitHub, GitHub Actions, GitLab 
+- Linux 
+- AWS 
+- Docker, Kubernetes 
+- Jenkins 
+- Terraform, Ansible 
+- Prometheus, Grafana 
+- Python 
+- Jira 
