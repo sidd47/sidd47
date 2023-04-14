@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Video Game Project.
-- 🌱 I’m currently learning Containers.
+- 🌱 I’m currently using Terraform extensively.
 
 
 <!--
